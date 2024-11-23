@@ -1,0 +1,1469 @@
+{
+  "easy": [
+    {
+      "question": "Who said, '…as for me and my house, we will serve the Lord'?",
+      "categories": ["old_testament"],
+      "reference": "Joshua 24:15",
+      "options": ["Elijah", "David", "Solomon", "Joshua"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "What is the name of the place where Jacob slept and dreamed of Jacob's Ladder?",
+      "categories": ["old_testament"],
+      "reference": "Genesis 28:19",
+      "options": ["Bethel", "Jerusalem", "Beersheba", "Canaan"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "How many rivers were formed from the river that went out of Eden?",
+      "categories": ["old_testament"],
+      "reference": "Genesis 2:10 (Pishon, Gihon, Hiddekel, and Euphrates)",
+      "options": [3, 5, 4, 7],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "God tested Abraham by telling him to offer his only son as a burnt offering. Who was that son?",
+      "answer": "Isaac",
+      "categories": ["old_testament"],
+      "reference": "Genesis 22:2",
+      "options": ["Isaac", "Jacob", "Ishmael", "Joseph"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "How many pieces of silver was Judas paid to betray Jesus?",
+      "answer": 30,
+      "categories": ["new_testament", "gospels"],
+      "reference": "Matthew 26:15",
+      "options": [20, 25, 30, 50],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Who personally baptized more people, Jesus or John the Baptist?",
+      "answer": "John the Baptist",
+      "categories": ["new_testament", "gospels"],
+      "reference": "John 4:2",
+      "options": ["Jesus", "John the Baptist", "Paul", "Peter"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Moses died at age 120 and was buried in a valley of Moab. Who buried him?",
+      "answer": "The Lord",
+      "categories": ["old_testament", "exodus", "prophets"],
+      "reference": "Deuteronomy 34:6",
+      "options": ["The Lord", "Moses' sons", "The Israelites", "Joshua"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Who was the father of John the Baptist?",
+      "answer": "Zacharias",
+      "categories": ["new_testament", "gospels"],
+      "reference": "Luke 3:2",
+      "options": ["Zacharias", "Joseph", "Aaron", "Elijah"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "How many demons came out of Mary called Magdalene?",
+      "answer": 7,
+      "categories": ["new_testament", "gospels", "miracles"],
+      "reference": "Luke 8:2",
+      "options": [3, 5, 7, 10],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "From what tribe of Israel did the Apostle Paul come?",
+      "answer": "Benjamin",
+      "categories": ["new_testament"],
+      "reference": "Philippians 3:5",
+      "options": ["Benjamin", "Judah", "Levi", "Reuben"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What did Paul say was the fulfillment of the Law?",
+      "answer": "Love",
+      "categories": ["new_testament"],
+      "reference": "Romans 13:10",
+      "options": ["Faith", "Hope", "Love", "Obedience"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the shortest chapter in the Bible?",
+      "answer": "Psalm 117",
+      "categories": ["old_testament"],
+      "reference": "Psalm 117 (2 verses)",
+      "options": ["Psalm 23", "Psalm 117", "Psalm 119", "Psalm 150"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "At Christ’s crucifixion what time of day did darkness come over the whole land?",
+      "answer": "Noon",
+      "categories": ["new_testament", "gospels"],
+      "reference": "Matthew 27:45",
+      "options": ["9 AM", "Noon", "3 PM", "6 PM"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Who was the father of David?",
+      "answer": "Jesse",
+      "categories": ["old_testament", "kings_judges"],
+      "reference": "Ruth 4:22",
+      "options": ["Saul", "Samuel", "Jesse", "Jonathan"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "To which tribe of Israel did Moses belong?",
+      "answer": "Levi",
+      "categories": ["old_testament", "exodus", "prophets"],
+      "reference": "Exodus 2:1",
+      "options": ["Judah", "Levi", "Benjamin", "Ephraim"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "To what land did Moses flee after killing the Egyptian soldier?",
+      "answer": "Midian",
+      "categories": ["old_testament", "prophets", "exodus"],
+      "reference": "Exodus 2:15",
+      "options": ["Midian", "Canaan", "Egypt", "Moab"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Christ’s first miracle was turning water into wine. Where did this occur?",
+      "answer": "Cana of Galilee",
+      "categories": ["new_testament", "gospels", "miracles"],
+      "reference": "John 2:6-9, 11",
+      "options": ["Cana of Galilee", "Jerusalem", "Bethlehem", "Nazareth"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Sarah was Abraham’s first wife. Who was his second?",
+      "answer": "Keturah",
+      "categories": ["old_testament"],
+      "reference": "Genesis 25:1",
+      "options": ["Keturah", "Hagar", "Rebekah", "Leah"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "After Christ’s triumphal entrance into Jerusalem and after visiting the temple, where did he spend the night?",
+      "answer": "Bethany",
+      "categories": ["new_testament", "gospels"],
+      "reference": "Mark 11:11",
+      "options": ["Bethany", "Nazareth", "Jerusalem", "Galilee"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What city is called the City of David?",
+      "answer": "Bethlehem",
+      "categories": ["old_testament", "new_testament", "kings_judges"],
+      "reference": "Luke 2:4",
+      "options": ["Jerusalem", "Bethlehem", "Nazareth", "Hebron"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Who leapt in his mother’s womb when Mary visited?",
+      "answer": "John the Baptist",
+      "categories": ["new_testament", "gospels"],
+      "reference": "Luke 1:41",
+      "options": ["John the Baptist", "Jesus", "Peter", "James"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "After the 5000 ate their fill of the 5 loaves and 2 fishes, how much food was left over?",
+      "answer": "12 baskets",
+      "categories": ["new_testament", "gospels", "miracles"],
+      "reference": "Matthew 14:20",
+      "options": ["7 baskets", "10 baskets", "12 baskets", "14 baskets"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Who did God describe as 'a blameless and upright man'?",
+      "answer": "Job",
+      "categories": ["old_testament"],
+      "reference": "Job 1:8",
+      "options": ["Noah", "Abraham", "Job", "Moses"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "How many Beatitudes are there?",
+      "answer": 8,
+      "categories": ["new_testament", "gospels"],
+      "reference": "Matthew 5:3-10",
+      "options": [7, 8, 10, 12],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "After his epiphany on the road to Damascus, how many days was Saul without sight?",
+      "answer": 3,
+      "categories": ["new_testament"],
+      "reference": "Acts 9:9",
+      "options": [1, 2, 3, 4],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "How old was Moses when he died?",
+      "answer": "120",
+      "categories": ["old_testament", "exodus"],
+      "reference": "Deuteronomy 34:7",
+      "options": [100, 110, 120, 130],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Adam and Eve had 3 sons. Cain was the firstborn followed by Abel. Who was the third son?",
+      "answer": "Seth",
+      "categories": ["old_testament"],
+      "reference": "Genesis 4:25",
+      "options": ["Seth", "Noah", "Lamech", "Enos"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is the shortest verse in the Bible?",
+      "answer": "Jesus wept",
+      "categories": ["new_testament", "gospels"],
+      "reference": "John 11:35",
+      "options": [
+        "Jesus wept",
+        "God is love",
+        "Rejoice always",
+        "Pray continually"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Jacob and Esau were twin brothers. Name their father and mother respectively. (____ and _____)",
+      "answer": "Isaac and Rebecca",
+      "categories": ["old_testament"],
+      "reference": "Genesis 25:19",
+      "options": [
+        "Isaac and Rebecca",
+        "Abraham and Sarah",
+        "David and Bathsheba",
+        "Jacob and Rachel"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Who negotiated with God to not destroy Sodom if but 10 righteous people could be found there?",
+      "answer": "Abraham",
+      "categories": ["old_testament"],
+      "reference": "Genesis 18:23-32",
+      "options": ["Abraham", "Moses", "Noah", "Lot"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "How many books are in the New Testament?",
+      "answer": 27,
+      "categories": ["new_testament"],
+      "reference": "-nil-",
+      "options": [24, 27, 30, 33],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Who replaced Judas as the twelfth apostle?",
+      "answer": "Matthias",
+      "categories": ["new_testament"],
+      "reference": "Acts 1:15-26",
+      "options": ["Matthias", "Paul", "James", "Peter"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is the most common name in the Bible?",
+      "answer": "Zechariah",
+      "categories": ["new_testament", "gospels"],
+      "reference": "-nil-",
+      "options": ["Zechariah", "Jesus", "David", "John"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Of what were the 12 gates of New Jerusalem made?",
+      "answer": "Pearls",
+      "categories": ["new_testament"],
+      "reference": "Revelations 21:21",
+      "options": ["Gold", "Silver", "Pearls", "Diamonds"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the longest name in the Bible? (no need to type in the dashes)",
+      "answer": "Maher-shalal-bash-baz",
+      "categories": ["old_testament"],
+      "reference": "Isaiah 8:1",
+      "options": [
+        "Maher-shalal-bash-baz",
+        "Zerubbabel",
+        "Methuselah",
+        "Sennacherib"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Who came to Zechariah to tell him that his wife would soon be having a baby?",
+      "answer": "Angel Gabriel",
+      "categories": ["new_testament", "gospels"],
+      "reference": "Luke 1:19",
+      "options": [
+        "Angel Gabriel",
+        "Angel Michael",
+        "John the Baptist",
+        "Peter"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "According to the Bible, how many pearly gates are there?",
+      "answer": "12",
+      "categories": ["new_testament"],
+      "reference": "Revelation 21:12-21",
+      "options": [10, 12, 14, 15],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "In the Bible, which of the 4 horsemen of the Apocalypse rides a red horse?",
+      "answer": "War",
+      "categories": ["new_testament"],
+      "reference": "Revelation 6:1-8",
+      "options": ["War", "Pestilence", "Famine", "Death"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is the longest name in the Bible? (no need to type in the dashes)",
+      "answer": "Maher-shalal-bash-baz",
+      "categories": ["old_testament"],
+      "reference": "Isaiah 8:1",
+      "options": [
+        "Maher-shalal-bash-baz",
+        "Zerubbabel",
+        "Methuselah",
+        "Sennacherib"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Who came to Zechariah to tell him that his wife would soon be having a baby?",
+      "answer": "Angel Gabriel",
+      "categories": ["new_testament", "gospels"],
+      "reference": "Luke 1:19",
+      "options": [
+        "Angel Gabriel",
+        "Angel Michael",
+        "John the Baptist",
+        "Peter"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "According to the Bible, how many pearly gates are there?",
+      "answer": "12",
+      "categories": ["new_testament"],
+      "reference": "Revelation 21:12-21",
+      "options": [10, 12, 14, 15],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "In the Bible, which of the 4 horsemen of the Apocalypse rides a red horse?",
+      "answer": "War",
+      "categories": ["new_testament"],
+      "reference": "Revelation 6:1-8",
+      "options": ["War", "Pestilence", "Famine", "Death"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Who built the first altar?",
+      "answer": "Noah",
+      "categories": ["old_testament"],
+      "reference": "Genesis 8:20",
+      "options": ["Noah", "Abraham", "Adam", "Moses"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "How many shekels did Abraham pay to buy the field of Machpelah?",
+      "answer": 400,
+      "categories": ["old_testament"],
+      "reference": "Genesis 23:16",
+      "options": [100, 200, 300, 400],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Judas betrayed Jesus for exactly how many coins of silver?",
+      "answer": 30,
+      "categories": ["new_testament", "gospels"],
+      "reference": "Matthew 26:15",
+      "options": [20, 25, 30, 50],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which of these books (Philippians, Colossians, Galatians or Ephesians) come first in the Bible?",
+      "answer": "Galatians",
+      "categories": ["new_testament", "letters_of_paul"],
+      "reference": "Contents page",
+      "options": ["Philippians", "Colossians", "Galatians", "Ephesians"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "How many chapters does the book Hebrews have?",
+      "answer": "13",
+      "categories": ["new_testament", "letters_of_paul"],
+      "reference": "Hebrews 1-13",
+      "options": [10, 12, 13, 15],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which disciple found a coin in the mouth of a fish?",
+      "answer": "Peter",
+      "categories": ["new_testament", "miracles"],
+      "reference": "Matthew 17:24-27",
+      "options": ["John", "Peter", "James", "Matthew"],
+      "correctOption": 1,
+      "points": 10
+    }
+  ],
+  "medium": [
+    {
+      "question": "How old (years) was David when he was anointed King of Israel?",
+      "categories": ["old_testament", "kings_judges"],
+      "reference": "2 Samuel 5:4",
+      "options": [26, 15, 45, 30],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "Aside from Peter and John, which disciple witnessed Jesus’ Transfiguration?",
+      "categories": ["new_testament", "gospels", "miracles"],
+      "reference": "Matthew 17:1-2, Mark 9:2, Luke 9:28-29",
+      "options": ["James", "Bartholomew", "Thomas", "Andrew"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Who told Naaman to wash in the river Jordan 7 times in order to cure his leprosy?",
+      "categories": ["old_testament", "prophets", "miracles"],
+      "reference": "2 Kings 5:10",
+      "options": ["Elijah", "Isaiah", "Elisha", "Jeremiah"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Who witnessed Elijah being taken up to Heaven?",
+      "answer": "Elisha",
+      "categories": ["old_testament", "prophets", "miracles"],
+      "reference": "2 Kings 2:11-12",
+      "options": ["Elisha", "Enoch", "Moses", "Jeremiah"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Only 2 persons in the Bible are reported as being 'taken up to Heaven' (instead of dying). One is Elijah. Who is the other?",
+      "answer": "Enoch",
+      "categories": ["old_testament", "miracles"],
+      "reference": "Genesis 5:24",
+      "options": ["Elisha", "Moses", "Enoch", "Jeremiah"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "How many years were the Israelites in bondage in Egypt?",
+      "answer": 430,
+      "categories": ["old_testament", "exodus"],
+      "reference": "Exodus 12:40-41",
+      "options": [400, 420, 430, 450],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "When they heard of the adversity that had befallen Job, how many of his friends came to comfort him?",
+      "answer": 3,
+      "categories": ["old_testament"],
+      "reference": "Job 2:11",
+      "options": [2, 3, 4, 5],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "How old (in years) was Abraham when his son Isaac was born?",
+      "answer": 100,
+      "categories": ["old_testament"],
+      "reference": "Genesis 21:5",
+      "options": [75, 90, 100, 120],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Where (city) were the disciples first called Christians?",
+      "answer": "Antioch",
+      "categories": ["new_testament"],
+      "reference": "Acts 11:26",
+      "options": ["Jerusalem", "Antioch", "Rome", "Corinth"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "There are only two perfect cubes described in Scripture. What is the one described in Revelation?",
+      "answer": "New Jerusalem",
+      "categories": ["new_testament"],
+      "reference": "Revelation 21:16",
+      "options": [
+        "The Ark of the Covenant",
+        "New Jerusalem",
+        "Solomon's Temple",
+        "The Tabernacle"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "God parted the Red Sea so Moses and the Israelites could cross. What body of water did He part so Joshua and the Israelites could cross?",
+      "answer": "Jordan River",
+      "categories": ["old_testament", "exodus", "miracles"],
+      "reference": "Joshua 3:15-17",
+      "options": ["Nile River", "Red Sea", "Jordan River", "Euphrates River"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "At Christ’s crucifixion darkness came over the whole land. How long did it last?",
+      "answer": "3 hours",
+      "categories": ["new_testament", "gospels"],
+      "reference": "Matthew 27:45",
+      "options": ["1 hour", "2 hours", "3 hours", "6 hours"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "What is the name of the City of God?",
+      "answer": "New Jerusalem",
+      "categories": ["new_testament", "gospels"],
+      "reference": "Revelations 3:12",
+      "options": ["Jerusalem", "Zion", "New Jerusalem", "Heaven"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "What relic did Moses remove from Egypt at the time of the Exodus?",
+      "answer": "Bones of Joseph",
+      "categories": ["old_testament", "prophets", "exodus"],
+      "reference": "Exodus 13:19",
+      "options": [
+        "Bones of Joseph",
+        "The Ark",
+        "Tablets of Stone",
+        "Holy Staff"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "How old was Abraham when he was circumcised?",
+      "answer": 99,
+      "categories": ["old_testament"],
+      "reference": "Genesis 17",
+      "options": [75, 80, 99, 100],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Who ate honey out of a lion’s carcass?",
+      "answer": "Samson",
+      "categories": ["old_testament", "kings_judges"],
+      "reference": "Judges 14:5-9",
+      "options": ["Samson", "David", "Solomon", "Saul"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Who was Israel’s first high priest?",
+      "answer": "Aaron",
+      "categories": ["old_testament", "prophets", "exodus"],
+      "reference": "Exodus 28",
+      "options": ["Aaron", "Moses", "Joshua", "Levi"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Who is the only woman whose age is mentioned in the Bible?",
+      "answer": "Sarah",
+      "categories": ["old_testament"],
+      "reference": "Genesis 23:1",
+      "options": ["Sarah", "Ruth", "Esther", "Rebekah"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "On the 7th day, how many times did Joshua’s army march around Jericho before the walls fell?",
+      "answer": 7,
+      "categories": ["old_testament", "exodus", "miracles"],
+      "reference": "Joshua 6:5",
+      "options": [5, 6, 7, 8],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Whose flock was Moses tending when he encountered the burning bush?",
+      "answer": "Jethro",
+      "categories": ["old_testament", "exodus", "miracles"],
+      "reference": "Exodus 3:1",
+      "options": ["His own", "Pharaoh's", "Jethro's", "Aaron's"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "How many days did Joshua’s troops march around Jericho before the walls fell?",
+      "answer": 7,
+      "categories": ["old_testament", "miracles", "exodus"],
+      "reference": "Joshua 6:3-5; Hebrews 11:3",
+      "options": [6, 7, 10, 12],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Where is King David buried?",
+      "answer": "City of David",
+      "categories": ["old_testament", "kings_judges"],
+      "reference": "1 Kings 2:10 (aka Old Jerusalem)",
+      "options": ["City of David", "Mount Zion", "Jericho", "Hebron"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Paul said he would visit the Romans on this journey to which country?",
+      "answer": "Spain",
+      "categories": ["new_testament"],
+      "reference": "Romans 15:24",
+      "options": ["Spain", "Italy", "Greece", "Egypt"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Where is Moses buried?",
+      "answer": "Valley of Moab",
+      "categories": ["old_testament", "exodus"],
+      "reference": "Deuteronomy 34:6 (in the valley)",
+      "options": [
+        "Mount Sinai",
+        "Valley of Moab",
+        "Mount Nebo",
+        "Jordan Valley"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "To whom did Jesus say, 'Man shall not live by bread alone.'?",
+      "answer": "Satan",
+      "categories": ["new_testament", "gospels"],
+      "reference": "Matthew 4:4",
+      "options": ["Peter", "Satan", "Pharisees", "John the Baptist"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "How many days had Lazarus been dead before being risen by Jesus?",
+      "answer": 4,
+      "categories": ["new_testament", "gospels", "miracles"],
+      "reference": "John 11:39",
+      "options": [3, 4, 5, 7],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "What is the name of the city founded by Cain?",
+      "answer": "Enoch",
+      "categories": ["old_testament"],
+      "reference": "Genesis 4:17",
+      "options": ["Nod", "Enoch", "Shinar", "Bethel"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "What was the 1st plague God inflicted on Egypt?",
+      "answer": "River waters turned to blood",
+      "categories": ["old_testament", "exodus", "miracles"],
+      "reference": "Exodus 7-12",
+      "options": ["Frogs", "Hail", "River waters turned to blood", "Locusts"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "What was the 2nd plague God inflicted on Egypt?",
+      "answer": "Frogs",
+      "categories": ["old_testament", "exodus", "miracles"],
+      "reference": "Exodus 7-12",
+      "options": ["Frogs", "Lice", "Flies", "Boils"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "What was the 3rd plague God inflicted on Egypt?",
+      "answer": "Lice",
+      "categories": ["old_testament", "exodus", "miracles"],
+      "reference": "Exodus 7-12",
+      "options": ["Flies", "Lice", "Hail", "Death of animals"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "What was the 4th plague God inflicted on Egypt?",
+      "answer": "Flies",
+      "categories": ["old_testament", "exodus", "miracles"],
+      "reference": "Exodus 7-12",
+      "options": ["Boils", "Flies", "Locusts", "Hail"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Name Jezebel’s husband.",
+      "answer": "Ahab",
+      "reference": "1 Kings 16:31",
+      "categories": ["old_testament", "kings_judges"],
+      "options": ["Ahab", "Jezreel", "David", "Saul"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Which timber was used to construct the Ark of Noah?",
+      "answer": "Gopher",
+      "reference": "Genesis 6:14",
+      "categories": ["old_testament"],
+      "options": ["Oak", "Gopher", "Cedar", "Pine"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Name Moses’ brother.",
+      "answer": "Aaron",
+      "reference": "Exodus 7:1",
+      "categories": ["old_testament"],
+      "options": ["Aaron", "Elijah", "Joshua", "Caleb"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "What was the age of Moses (years) at the time of his demise?",
+      "answer": "120",
+      "categories": ["old_testament"],
+      "reference": "Deuteronomy 34:7",
+      "options": [100, 120, 150, 130],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "What is the colour of the horse which the 'War' horseman of the Apocalypse rides?",
+      "answer": "Red",
+      "categories": ["new_testament"],
+      "reference": "Revelation 6:1-8",
+      "options": ["White", "Red", "Black", "Pale"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "In the Bible, which of the 4 horsemen of the Apocalypse rides a pale/ashen horse?",
+      "answer": "Death",
+      "categories": ["new_testament"],
+      "reference": "Revelation 6:1-8",
+      "options": ["War", "Pestilence", "Death", "Famine"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Who tells the disciples that Jesus had risen from the dead?",
+      "answer": "Mary Magdalene",
+      "categories": ["new_testament", "gospels"],
+      "reference": "Matthew 28:1-10, John 20:1-10",
+      "options": ["Mary Magdalene", "John", "Peter", "Angel Gabriel"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "How many times did Peter deny Jesus?",
+      "answer": 3,
+      "categories": ["new_testament", "gospels"],
+      "reference": "Matthew 26:33-35, Mark 14:29-31, Luke 22:33-34, John 13:36-38",
+      "options": [1, 2, 3, 4],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Who fled from Iconium when they heard of a plot to stone them? (___ and ____, alphabetical order)",
+      "answer": "Barnabas and Paul",
+      "categories": ["new_testament"],
+      "reference": "Acts 14:5-6",
+      "options": [
+        "Paul and Barnabas",
+        "Peter and John",
+        "James and John",
+        "Barnabas and Paul"
+      ],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "After he fled for his life, which tree did Elijah sleep under?",
+      "answer": "Juniper",
+      "categories": ["old_testament", "prophets", "kings_judges"],
+      "reference": "1 Kings 19:5",
+      "options": ["Juniper", "Oak", "Pine", "Cedar"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Name David’s father",
+      "answer": "Jesse",
+      "categories": ["old_testament", "kings_judges"],
+      "reference": "1 Samuel 17:12",
+      "options": ["Jesse", "Samuel", "Saul", "Jonathan"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "God is not mentioned in only 1 book of the Bible. Which one?",
+      "answer": "Esther",
+      "categories": ["old_testament"],
+      "reference": "Esther",
+      "options": ["Esther", "Job", "Judges", "Ruth"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "What is the name of the storm winds which can hit Crete?",
+      "answer": "Euroklydon",
+      "categories": ["new_testament", "miracles"],
+      "reference": "Acts 27:14",
+      "options": ["Boreas", "Euroklydon", "Sirocco", "Zephyr"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "How many baskets were left over from the feeding of the 5000?",
+      "answer": "7",
+      "categories": ["new_testament", "miracles"],
+      "reference": "Matthew 15:3",
+      "options": [5, 7, 10, 12],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "What did Peter find in a fish's mouth?",
+      "answer": "Coin",
+      "categories": ["new_testament", "miracles"],
+      "reference": "Matthew 17:24–27",
+      "options": ["Gold", "Silver", "Coin", "Ruby"],
+      "correctOption": 2,
+      "points": 20
+    }
+  ],
+  "hard": [
+    {
+      "question": "When Samson killed 1000 Philistines at Lehi what weapon did he use?",
+      "categories": ["old_testament", "judges"],
+      "reference": "Judges 15:15",
+      "options": ["Sword", "Jawbone of an ass", "Club", "Dagger"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Who announced to Zachariah that his wife would bear a child to be named John the Baptist?",
+      "answer": "Angel Gabriel",
+      "categories": ["new_testament", "gospels"],
+      "reference": "Luke 1:13",
+      "options": ["Gabriel", "Angel Gabriel", "Zachariah", "Michael"],
+      "correctOption": 1,
+      "points": 25
+    },
+    {
+      "question": "What does the name 'Emmanuel' mean?",
+      "answer": "God with us",
+      "categories": ["new_testament", "gospels", "miracles"],
+      "reference": "Matthew 2:23",
+      "options": [
+        "God's Chosen One",
+        "God with us",
+        "The Messiah",
+        "The Savior"
+      ],
+      "correctOption": 1,
+      "points": 15
+    },
+    {
+      "question": "Only 2 persons in the Bible are reported as being 'taken up to Heaven' (instead of dying). Who are they (in chronological order)?",
+      "answer": "Enoch and Elijah",
+      "categories": ["old_testament", "prophets", "miracles"],
+      "reference": "Genesis 5:24, 2 Kings 2:11-12",
+      "options": [
+        "Elijah and Enoch",
+        "Moses and Elijah",
+        "Enoch and Elijah",
+        "Abraham and Enoch"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "Who hid Joshua’s spies from Jericho’s king?",
+      "answer": "Rahab",
+      "categories": ["old_testament", "kings_judges"],
+      "reference": "Joshua 2:1-4",
+      "options": ["Rahab", "Deborah", "Ruth", "Esther"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "How many troops did Sennacherib lose at the siege of Jerusalem?",
+      "answer": 185000,
+      "categories": ["old_testament", "kings_judges"],
+      "reference": "2 Kings 19:35",
+      "options": [100000, 120000, 185000, 200000],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "According to the Book of Revelations, what needs to be done to receive the crown of life?",
+      "answer": "Faithful until death",
+      "categories": ["new_testament"],
+      "reference": "Revelations 2:10",
+      "options": [
+        "Give offerings",
+        "Faithful until death",
+        "Evangelize",
+        "Love thy neighbor"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "What body of water, other than the Red Sea, was parted in the Bible?",
+      "answer": "Jordan river",
+      "categories": ["old_testament", "prophets", "exodus", "miracles"],
+      "reference": "Joshua 3:7-4:18, 2 Kings 2:8-14",
+      "options": [
+        "Nile river",
+        "Jordan river",
+        "Sea of Galilee",
+        "Euphrates river"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "How tall was Goliath?",
+      "answer": "6 cubits and a span",
+      "categories": ["old_testament", "kings_judges"],
+      "reference": "1 Samuel 17:4",
+      "options": ["5 cubits", "6 cubits and a span", "7 cubits", "8 cubits"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "To which king did Isaac hide his spousal relationship with Rebecca by claiming she was his sister?",
+      "answer": "Abimelech",
+      "categories": ["old_testament"],
+      "reference": "Genesis 26: 1-9",
+      "options": ["Pharaoh", "Abimelech", "Nebuchadnezzar", "Ahasuerus"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "How many persons were sealed as 'servants of our God on their forehead'?",
+      "answer": "144,000",
+      "categories": ["new_testament", "gospels"],
+      "reference": "Revelations 7:4",
+      "options": ["12,000", "70,000", "144,000", "1,000,000"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "3 named women found Christ’s tomb open and empty: Mary Magdalene, Mary the mother of James, and _____?",
+      "answer": "Joanna",
+      "categories": ["new_testament", "gospels", "miracles"],
+      "reference": "Luke 24:10",
+      "options": ["Mary Magdalene", "Joanna", "Salome", "Deborah"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "3 named women found Christ’s tomb open and empty: Joanna, Mary the mother of James, and _____?",
+      "answer": "Mary Magdalene",
+      "categories": ["new_testament", "gospels", "miracles"],
+      "reference": "Luke 24:10",
+      "options": ["Joanna", "Mary Magdalene", "Salome", "Deborah"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "The first two disciples selected by Jesus were brothers. Name them in alphabetical order (____ and ____).",
+      "answer": "Andrew and Simon",
+      "categories": ["new_testament", "gospels"],
+      "reference": "Mark 1:16",
+      "options": [
+        "Andrew and Simon",
+        "Simon and James",
+        "James and John",
+        "Peter and Andrew"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "Which of the tribes of Israel was prohibited from owning land in Canaan?",
+      "answer": "Levites",
+      "categories": ["old_testament"],
+      "reference": "Deuteronomy 18:2",
+      "options": ["Levites", "Judah", "Benjamin", "Reuben"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "What famous city did Nebuchadnezzar rule?",
+      "answer": "Babylon",
+      "categories": ["old_testament", "prophets", "kings_judges"],
+      "reference": "Daniel 4:30",
+      "options": ["Babylon", "Nineveh", "Jerusalem", "Ur"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "How many Jews were exiled to Babylon by Nebuchadnezzar?",
+      "answer": 4600,
+      "categories": ["old_testament", "kings_judges"],
+      "reference": "Jeremiah 52:30",
+      "options": [4600, 5000, 7000, 10000],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "When Moses was preparing the Israelites for their coming confrontation with the 7 nations of Canaan, how large an army (number) did he raise?",
+      "answer": 603550,
+      "categories": ["old_testament", "kings_judges"],
+      "reference": "Numbers 1:46",
+      "options": [603550, 500000, 750000, 1000000],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "Aside from the Serpent, what other animal in the Old Testament spoke to humans?",
+      "answer": "Donkey",
+      "categories": ["old_testament", "miracles"],
+      "reference": "Numbers 22:28-30",
+      "options": ["Donkey", "Lion", "Horse", "Raven"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "At the transfiguration, who appeared and talked to Christ? (____ and ____, in their respective order in the Bible)",
+      "answer": "Moses and Elijah",
+      "categories": ["new_testament", "gospels", "prophets"],
+      "reference": "Matthew 17:3; Mark 9:4; Luke 9:30",
+      "options": [
+        "Abraham and Moses",
+        "Elijah and Moses",
+        "Moses and Elijah",
+        "David and Elijah"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "How old (in years) was Noah when the flood was upon the earth?",
+      "answer": 600,
+      "categories": ["old_testament"],
+      "reference": "Genesis 4:6",
+      "options": [300, 500, 600, 700],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "Which of Joseph’s (coat of many colors) 11 brothers said to his brothers not to kill Joseph but to cast him in a pit instead?",
+      "answer": "Reuben",
+      "categories": ["old_testament"],
+      "reference": "Genesis 37:21-22",
+      "options": ["Reuben", "Judah", "Levi", "Simeon"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "How old (years) was Adam when he died?",
+      "answer": 130,
+      "categories": ["old_testament"],
+      "reference": "Genesis 5:3",
+      "options": [120, 130, 150, 170],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "How many times was Peter told to forgive his brother who had sinned against him?",
+      "answer": "Seventy times seven times",
+      "categories": ["new_testament", "gospels"],
+      "reference": "Matthew 18:22",
+      "options": [
+        "Seven times",
+        "Seventy times seven times",
+        "Forty-nine times",
+        "Seventy-seven times"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "About how long was Christ on the cross before he said 'My God, my God, why hast thou forsaken me?'",
+      "answer": "9 hours",
+      "categories": ["new_testament", "gospels"],
+      "reference": "Matthew 27:46",
+      "options": ["6 hours", "9 hours", "12 hours", "3 hours"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "Name the mountain from which Moses viewed Canaan and on which he died.",
+      "answer": "Nebo",
+      "categories": ["old_testament"],
+      "reference": "Deuteronomy 32:49-50",
+      "options": ["Sinai", "Zion", "Nebo", "Horeb"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "How many devils were cast out of Mary Magdalene?",
+      "answer": "7",
+      "categories": ["new_testament", "gospels", "miracles"],
+      "reference": "Luke 8:2",
+      "options": [6, 7, 8, 9],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "For refusing to worship a false god, Shadrach, Meshach, and Abednego were cast into a fiery furnace by King Nebuchadnezzar. How many times hotter than normal did the king order the furnace fire to be?",
+      "answer": 7,
+      "categories": ["old_testament", "prophets", "miracles"],
+      "reference": "Daniel 3:19",
+      "options": [3, 5, 7, 10],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "What was the 10th plague God inflicted on Egypt?",
+      "answer": "Death of first-born son",
+      "categories": ["old_testament", "exodus", "miracles"],
+      "reference": "Exodus 7-12",
+      "options": ["Death of first-born son", "Locusts", "Darkness", "Hail"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "Which city was Jesus entering when Zacchaeus climbed a sycamore tree to see him?",
+      "answer": "Jericho",
+      "categories": ["new_testament", "gospels"],
+      "reference": "Luke 19:1-4",
+      "options": ["Jericho", "Bethlehem", "Nazareth", "Capernaum"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "What is the longest chapter in the Bible?",
+      "answer": "Psalm 119",
+      "categories": ["old_testament"],
+      "reference": "Psalm 119 (176 verses)",
+      "options": ["Psalm 23", "Psalm 119", "Isaiah 53", "Psalm 90"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "Where did Cain go when he left Eden?",
+      "answer": "Nod",
+      "categories": ["old_testament"],
+      "reference": "Genesis 4:16",
+      "options": ["Nod", "Egypt", "Babylon", "Cush"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "In the Bible, God is said to have physically written thrice – each time on a different surface. On what did his writing appear at the third instance?",
+      "answer": "Wall",
+      "categories": ["old_testament", "miracles", "prophets"],
+      "reference": "Dan 5:5-12",
+      "options": ["Stone", "Wood", "Wall", "Scroll"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "Balaam was spoken to by which animal?",
+      "answer": "Donkey",
+      "categories": ["old_testament", "miracles"],
+      "reference": "Numbers 22:22-35",
+      "options": ["Donkey", "Lion", "Horse", "Goat"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "What prophet issued ominous warning against people who took advantage of widows and the fatherless?",
+      "answer": "Malachi",
+      "categories": ["old_testament", "prophets"],
+      "reference": "Malachi 3:5",
+      "options": ["Isaiah", "Jeremiah", "Malachi", "Ezekiel"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "Who did Mordecai refuse to bow down to?",
+      "answer": "Haman",
+      "categories": ["old_testament"],
+      "reference": "Esther",
+      "options": ["Haman", "King Xerxes", "Nehemiah", "Ezra"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "How long was Daniel in the den of the lions?",
+      "answer": "1 night",
+      "categories": ["old_testament", "prophets", "miracles"],
+      "reference": "Daniel 6",
+      "options": ["1 night", "3 nights", "7 nights", "14 nights"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "What animal is mentioned most frequently in both the New and Old Testaments?",
+      "answer": "Sheep",
+      "categories": ["old_testament", "new_testament"],
+      "reference": "-nil-",
+      "options": ["Sheep", "Goat", "Camel", "Horse"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "How much time did Jonah spend in the belly of the whale?",
+      "answer": "3 days and 3 nights",
+      "categories": ["old_testament", "prophets"],
+      "reference": "Jonah 1:17",
+      "options": [
+        "1 day",
+        "2 days and 2 nights",
+        "3 days and 3 nights",
+        "7 days"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "What biblical Babylonian king cast Daniel into the lion’s den for praying to God in defiance of a royal decree?",
+      "answer": "Darius the Mede",
+      "categories": ["old_testament", "prophets", "kings_judges", "miracles"],
+      "reference": "Daniel 6",
+      "options": ["Nebuchadnezzar", "Cyrus", "Darius the Mede", "Belshazzar"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "According to the Bible, what weapons was the Philistine giant, Goliath carrying when he was slain by David? (_____ and _____)",
+      "answer": "Sword and spear",
+      "categories": ["old_testament", "kings_judges"],
+      "reference": "1 Samuel 17:45",
+      "options": [
+        "Sword and spear",
+        "Sword and shield",
+        "Bow and arrow",
+        "Spear and dagger"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "Who was the first king of Israel?",
+      "answer": "Saul",
+      "categories": ["old_testament", "kings_judges"],
+      "reference": "1 Samuel 10:1",
+      "options": ["Saul", "David", "Solomon", "Rehoboam"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "What kind of tree did Zacchaeus climb to see Jesus enter Jericho?",
+      "answer": "Sycamore",
+      "categories": ["new_testament", "gospels"],
+      "reference": "Luke 19:1-4",
+      "options": ["Oak", "Pine", "Sycamore", "Fig"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "Who was able to decipher Nebuchadnezzar’s dreams?",
+      "answer": "Daniel",
+      "categories": ["old_testament", "prophets", "kings_judges", "miracles"],
+      "reference": "Daniel 2",
+      "options": ["Daniel", "Joseph", "Elijah", "Nehemiah"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "Who was Joseph’s master in Egypt as stated in Genesis 37:36?",
+      "answer": "Potiphar",
+      "categories": ["old_testament"],
+      "reference": "Genesis 37:36",
+      "options": ["Potiphar", "Pharaoh", "Caiaphas", "Herod"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "What king of Judah was stricken with leprosy?",
+      "answer": "Uzziah",
+      "categories": ["old_testament", "kings_judges"],
+      "reference": "2 Kings 15:5 (also known as Azariah)",
+      "options": ["Uzziah", "Hezekiah", "Ahaz", "Manasseh"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "For how many pieces of silver was Joseph sold by his brothers to the Ishmeelites?",
+      "answer": 20,
+      "categories": ["old_testament"],
+      "reference": "Genesis 37:28",
+      "options": [10, 15, 20, 30],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "How many apostles did Jesus choose?",
+      "answer": "12",
+      "categories": ["new_testament", "gospels"],
+      "reference": "Luke 6:13",
+      "options": [10, 11, 12, 13],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "The angel said to Mary that Jesus would 'reign over the house' of which Old Testament character?",
+      "answer": "Jacob",
+      "categories": ["old_testament", "new_testament", "gospels"],
+      "reference": "Luke 1:33",
+      "options": ["Abraham", "David", "Jacob", "Isaac"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "Which prophet said, 'Out of Egypt have I called my son'?",
+      "answer": "Hosea",
+      "categories": ["old_testament", "prophets"],
+      "reference": "Hosea 11:1",
+      "options": ["Isaiah", "Jeremiah", "Hosea", "Ezekiel"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "What type of tree did Jesus curse?",
+      "answer": "Fig",
+      "categories": ["new_testament", "miracles"],
+      "reference": "Mark 11:12-14",
+      "options": ["Fig", "Olive", "Palm", "Cypress"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "Who did Saul request a medium bring up for him?",
+      "answer": "Samuel",
+      "categories": ["old_testament", "prophets", "kings_judges"],
+      "reference": "1 Samuel 28:11",
+      "options": ["Saul", "Samuel", "Elijah", "David"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "Which Psalm is the verse “He makes me lie down in green pastures, he leads me beside quiet waters,” from?",
+      "answer": "23",
+      "categories": ["old_testament", "psalms"],
+      "reference": "Psalm 23:2",
+      "options": ["Psalm 1", "Psalm 23", "Psalm 45", "Psalm 100"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "The fear of the Lord is the beginning of...?",
+      "answer": "Wisdom",
+      "categories": ["old_testament", "proverbs", "psalms"],
+      "reference": "Psalm 111:10, Proverbs 9:10",
+      "options": ["Love", "Knowledge", "Wisdom", "Faith"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "What city did the Lord tell Jonah to preach against?",
+      "answer": "Nineveh",
+      "categories": ["old_testament", "prophets"],
+      "reference": "Jonah 1:2",
+      "options": ["Jericho", "Nineveh", "Bethlehem", "Damascus"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "In which book of the bible to we read about Haman?",
+      "answer": "Esther",
+      "categories": ["old_testament"],
+      "reference": "Esther 3",
+      "options": ["Esther", "Ruth", "Judges", "1 Kings"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "What ceremony did King Josiah reinstate that had not been celebrated by any of the previous kings of Israel or Judah?",
+      "answer": "Passover",
+      "categories": ["old_testament", "kings_judges"],
+      "reference": "2 Kings 23:21",
+      "options": [
+        "Feast of Tabernacles",
+        "Passover",
+        "Day of Atonement",
+        "Feast of Weeks"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "Who was the oldest person recorded in the Bible?",
+      "answer": "Methuselah",
+      "categories": ["old_testament"],
+      "reference": "Genesis 5:27",
+      "options": ["Noah", "Adam", "Methuselah", "Enoch"],
+      "correctOption": 2,
+      "points": 30
+    }
+  ]
+}

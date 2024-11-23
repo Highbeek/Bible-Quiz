@@ -1,11 +1,10 @@
 :root {
-  --color-darkest: #343a40;
-  --color-dark: #495057;
+  --color-darkest: #1b1b2f;
+  --color-dark: #162447;
   --color-medium: #ced4da;
-  --color-light: #f1f3f5;
-
-  --color-theme: #1098ad;
-  --color-accent: #ffa94d;
+  --color-accent: #e43f5a;
+  --color-light: #e4e4e4;
+  --color-theme: #006400;
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Codystar&display=swap");
@@ -161,6 +160,40 @@ progress {
   border: 2px solid var(--color-theme);
   color: var(--color-light);
 }
+.start h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.start h3 {
+  margin-bottom: 20px;
+  /* color: #555; */
+}
+.question-count-selector {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.question-count-selector label {
+  font-size: 16px;
+  /* color: #555; */
+}
+.question-count-selector select {
+  padding: 8px;
+  font-size: 14px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  outline: none;
+  background-color: #f0f0f0;
+  cursor: pointer;
+  transition: border-color 0.3s;
+}
+.question-count-selector select:hover,
+.question-count-selector select:focus {
+  border-color: #007bff;
+}
+
 .btn-option.wrong {
   background-color: var(--color-accent);
   border: 2px solid var(--color-accent);
